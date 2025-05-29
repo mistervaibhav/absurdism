@@ -1,10 +1,10 @@
 import { render } from '@testing-library/react';
 
-import Absurdism from './absurdism';
+import Components from './components';
 
-describe('Absurdism', () => {
+describe('Components', () => {
   it('should render successfully', () => {
-    const { baseElement } = render(<Absurdism />);
+    const { baseElement } = render(<Components />);
     expect(baseElement).toBeTruthy();
   });
 });

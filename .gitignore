@@ -7,3 +7,5 @@ vitest.config.*.timestamp*
 node_modules
 dist
 package-lock.json
+
+storybook-static

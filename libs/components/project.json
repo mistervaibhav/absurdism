@@ -1,7 +1,7 @@
 {
-  "name": "absurdism",
+  "name": "components",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "libs/absurdism/src",
+  "sourceRoot": "libs/components/src",
   "projectType": "library",
   "tags": [],
   "targets": {
