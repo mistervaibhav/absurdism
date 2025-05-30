@@ -1,6 +1,6 @@
 export function Components() {
   return (
-    <div className={styles['container']}>
+    <div>
       <h1>Welcome to Components!</h1>
     </div>
   );
